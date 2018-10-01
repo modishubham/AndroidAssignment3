@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentDemo</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile</string>
+    <string name="password">Password</string>
+    <string name="click">click</string>
+    <string name="press">press</string>
+    <string name="search">search</string>
+</resources>
